@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="toni_stone" size="150.000000 90.000000" />
+    <ImageTarget name="satchel_paige" size="150.000000 90.000000" />
+    <ImageTarget name="rube_foster" size="150.000000 90.000000" />
+    <ImageTarget name="ray_dandridge" size="150.000000 90.000000" />
+    <ImageTarget name="pop_lloyd" size="150.000000 90.000000" />
+    <ImageTarget name="oscar_charleston" size="150.000000 90.000000" />
+    <ImageTarget name="martin_dinhgo" size="150.000000 90.000000" />
+    <ImageTarget name="mamie_johnson" size="150.000000 90.000000" />
+    <ImageTarget name="leon_day" size="150.000000 90.000000" />
+    <ImageTarget name="judy_johnson" size="150.000000 90.000000" />
+    <ImageTarget name="josh_gibson" size="150.000000 90.000000" />
+    <ImageTarget name="field_of_legends" size="150.000000 90.000000" />
+    <ImageTarget name="cool_papa_bell" size="150.000000 90.000000" />
+    <ImageTarget name="connie_morgan" size="150.000000 90.000000" />
+    <ImageTarget name="buck_oneil" size="150.000000 90.000000" />
+    <ImageTarget name="buck_leonard" size="150.000000 90.000000" />
+  </Tracking>
+</QCARConfig>
